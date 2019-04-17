@@ -90,3 +90,15 @@ div#tableRow{
   padding:15px;
   vertical-align:top;
 }
+.headerLogo{
+  float:left;
+  background-image: url(images/header.gif)
+  width: 400px;
+  height: 100px;
+}
+.header.{
+  float:left;
+  background-image: url(images/header.gif)
+  width: 400px;
+  height: 100px;
+}
