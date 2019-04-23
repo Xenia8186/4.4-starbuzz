@@ -96,8 +96,13 @@ div#tableRow{
   position: fixed;
   top:350px;
   left: -90px;
-
+  transition:0.5s;
 }
 #coupon a, img{
   border: none;
+}
+#coupon:hover{
+  position:fixed;
+  top:350px;
+  transform:translate(250px);
 }
