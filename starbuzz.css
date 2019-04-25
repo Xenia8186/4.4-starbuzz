@@ -95,19 +95,14 @@ div#tableRow{
 #coupon{
   position: fixed;
   top:350px;
-<<<<<<< HEAD
   left: -250px;
   transition: 0.5s;
-
-=======
   left: -90px;
   transition:0.5s;
->>>>>>> 651bb5e1409d253fbc77cea41f0b142f7895a17f
 }
 #coupon a, img{
   border: none;
 }
-<<<<<<< HEAD
 #coupon:hover
 {
   position: fixed;
@@ -135,10 +130,8 @@ nav ul li a:link, nav ul li a:visited{
 nav ul li.selected{
   background-color: #c8b99c;
 }
-=======
 #coupon:hover{
   position:fixed;
   top:350px;
   transform:translate(250px);
 }
->>>>>>> 651bb5e1409d253fbc77cea41f0b142f7895a17f
